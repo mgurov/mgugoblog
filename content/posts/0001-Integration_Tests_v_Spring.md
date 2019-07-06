@@ -1,7 +1,10 @@
 ---
-title: "Java Integration Tests v Spring Context — when less is more"
+title: "Java Integration Tests v Spring Context"
 date: 2019-07-06T23:13:31+02:00
 draft: false
+description: "when less is more"
+tags: [spring, testing]
+
 ---
 
 When doing integration testing within a Spring (Boot) based project, we tend to use some sort of Spring context. Setting it up isn't free. Careless tests composition can lead to much time wasted on re-creating those contexts, and will make running tests painfully long very quickly. There are simple techniques of keeping this overhead to the minimum. Ideally – start only one test context for the whole run.
