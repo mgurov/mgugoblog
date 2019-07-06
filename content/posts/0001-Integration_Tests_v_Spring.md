@@ -91,18 +91,17 @@ public class MockedDependencyTests {
 
 In fact, it's quite difficult *not to pay much extra* for starting all those Spring contexts, especially if you simply follow the Spring documentation on testing.
 
-## My Solution
+### My Solution
 One and only one Spring context. This isn't the only possible approach, but I prefer it for the simplicity.
 
-## Never ever @DirtiesContext.
+#### Never ever @DirtiesContext.
 Have a test changing configuration? Make it explicit or maybe rethink testing approach.
 
 Need reset some state, like caches? Go directly to the cache manager and reset there. Much faster and explicit.
 
 Need reset database (in-mem, docker, whatever)? Consider explicitly cleaning the data, or better yet - write tests that don't demand data cleanup. Stay tuned to see how.
 
-## One configuration.
-
+#### One configuration.
 As close as possible to production, with some aspects tailored for test run, e.g. cron jobs disabled to avoid interference; external call retries disabled or set to minimum.
 
 Want to test something with different properties? Consider doing it without the Spring context (unit-testing style).
@@ -111,12 +110,11 @@ Alternatively, you can set a property explicitly into a Spring-managed component
 
 TBH, it's not per se wrong to have mutliple test configurations. In such case, I would advise to be careful in keeping the number of distinct configurations to the necessary minimum, watching how Spring reuses test contexts.
 
-## No mocking.
-
+#### No mocking.
 Well, no mocking of internal components, at least not within the Spring context.
 Need mock external services? Instantiate your connectors as mocks. Once and forever in that single context. Even better, push mocking out of your service boundaries by using WireMock or similar.
 
-## Further Reading.
+#### Further Reading.
 
 Spring's documentation on testing, and in particular the section on the context caching .
 Testing section of the Spring Boot documentation https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-testing.html#boot-features-testing
