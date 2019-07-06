@@ -1,0 +1,10 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Mykola on blog"
+theme = "hugo-cactus-theme"
+
+[params]
+    twitter = "ngurov"
+
+[social]
+    twitter = "https://www.twitter.com/ngurov"
