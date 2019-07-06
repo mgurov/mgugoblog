@@ -1,12 +1,12 @@
 ---
 title: "Java Integration Tests v Spring Context — when less is more"
 date: 2019-07-06T23:13:31+02:00
-draft: true
+draft: false
 ---
 
 When doing integration testing within a Spring (Boot) based project, we tend to use some sort of Spring context. Setting it up isn't free. Careless tests composition can lead to much time wasted on re-creating those contexts, and will make running tests painfully long very quickly. There are simple techniques of keeping this overhead to the minimum. Ideally – start only one test context for the whole run.
 
-A pristine Spring Boot project with web module takes 5 seconds to execute the only test provided (mvn clean test-compile compile && mvn test ). 2wo of those seconds were taken by the startup of the Spring context. Adding more test methods doesn't add much to the overall execution time: there's no extra overhead cost as the SpringRunner is clever enough to reuse the context. Things turn different if I, say, [dirty the context](https://github.com/mgurov/javaspringtestcontext/blob/master/src/test/java/com/github/mgurov/javaspringtestcontext/DirtyContextTests.java):
+A pristine Spring Boot [project](https://github.com/mgurov/javaspringtestcontext/tree/pristine) with web module takes 5 seconds to execute the only test provided (mvn clean test-compile compile && mvn test ). 2wo of those seconds were taken by the startup of the Spring context. Adding more test methods doesn't add much to the overall execution time: there's no extra overhead cost as the SpringRunner is clever enough to reuse the context. Things turn different if I, say, [dirty the context](https://github.com/mgurov/javaspringtestcontext/blob/master/src/test/java/com/github/mgurov/javaspringtestcontext/DirtyContextTests.java):
 
 ```java
 @RunWith(SpringRunner.class)
@@ -108,11 +108,11 @@ Want to test something with different properties? Consider doing it without the 
 
 Alternatively, you can set a property explicitly into a Spring-managed component and safely reset back to the standard configuration at the teardown. This is bit hacky, but done carefully is simple enough and works just fine, especially when the project exercises trunk-based development and feature toggles don't tend to stay for long in the codebase.
 
-TBH, it's not per se wrong to have mutliple test configurations. In such case, I would advise to be careful in keeping the number of distinct configurations to the necessary minimum, watching how Spring reuses test contexts.
+TBH, it's not per se wrong to have mutliple test configurations. In such case, I would advise to be careful in keeping the number of distinct configurations to the necessary minimum, watching how Spring [reuses test contexts](https://docs.spring.io/spring/docs/current/spring-framework-reference/testing.html#testcontext-ctx-management-caching).
 
 #### No mocking.
 Well, no mocking of internal components, at least not within the Spring context.
-Need mock external services? Instantiate your connectors as mocks. Once and forever in that single context. Even better, push mocking out of your service boundaries by using WireMock or similar.
+Need mock external services? Instantiate your connectors as mocks. Once and forever in that single context. Even better, push mocking out of your service boundaries by using [WireMock](http://wiremock.org/) or similar.
 
 #### Further Reading.
 
