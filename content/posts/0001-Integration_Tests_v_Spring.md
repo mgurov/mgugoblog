@@ -116,6 +116,10 @@ Need mock external services? Instantiate your connectors as mocks. Once and fore
 
 #### Further Reading.
 
-Spring's documentation on testing, and in particular the section on the context caching .
+Spring's documentation on [testing](https://docs.spring.io/spring/docs/current/spring-framework-reference/testing.html#integration-testing), and in particular the section on the [context caching](https://docs.spring.io/spring/docs/current/spring-framework-reference/testing.html#testcontext-ctx-management-caching).
+
 Testing section of the Spring Boot documentation https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-testing.html#boot-features-testing
+
 Baeldung on Spring Tests https://www.baeldung.com/spring-tests
+
+[Testing Spring Boot Applications by Andy Wilkinson @ Spring I/O 2019](https://www.youtube.com/watch?v=5sjFn9BsAds)
