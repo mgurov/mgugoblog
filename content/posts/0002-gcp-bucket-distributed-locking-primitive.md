@@ -1,7 +1,6 @@
 ---
 title: "GCP Bucket as a Distributed Locking Primitive"
 date: 2019-07-07T11:31:10+02:00
-draft: true
 tags: [gcp, distributed locking]
 ---
 

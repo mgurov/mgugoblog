@@ -1,7 +1,6 @@
 ---
-title: "Java Integration Tests v Spring Context"
+title: "Java Integration Tests v Spring Context – when less is more"
 date: 2019-07-06T23:13:31+02:00
-draft: false
 description: "when less is more"
 tags: [spring, testing]
 
@@ -10,6 +9,8 @@ tags: [spring, testing]
 When doing integration testing within a Spring (Boot) based project, we tend to use some sort of Spring context. Setting it up isn't free. Careless tests composition can lead to much time wasted on re-creating those contexts, and will make running tests painfully long very quickly. There are simple techniques of keeping this overhead to the minimum. Ideally – start only one test context for the whole run.
 
 <!--more-->
+
+
 
 A pristine Spring Boot [project](https://github.com/mgurov/javaspringtestcontext/tree/pristine) with web module takes 5 seconds to execute the only test provided (`mvn clean test-compile compile && mvn test` ). 2wo of those seconds were taken by the startup of the Spring context. Adding more test methods doesn't add much to the overall execution time: there's no extra overhead cost as the SpringRunner is clever enough to reuse the context. Things turn different if I, say, [dirty the context](https://github.com/mgurov/javaspringtestcontext/blob/master/src/test/java/com/github/mgurov/javaspringtestcontext/DirtyContextTests.java):
 
@@ -127,4 +128,6 @@ Testing section of the Spring Boot documentation https://docs.spring.io/spring-b
 
 Baeldung on Spring Tests https://www.baeldung.com/spring-tests
 
-[Testing Spring Boot Applications by Andy Wilkinson @ Spring I/O 2019](https://www.youtube.com/watch?v=5sjFn9BsAds)
+More in-depth discussion of the topic by Andy Wilkinson @ Spring I/O 2019:
+
+{{< youtube 5sjFn9BsAds >}}
