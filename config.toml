@@ -1,4 +1,4 @@
-baseURL = "https://mgurov.github.io/blog/"
+baseURL = "https://mgurov.github.io/"
 languageCode = "en-us"
 title = "Mykola on blog"
 #theme = "hugo-cactus-theme"

@@ -1,11 +1,11 @@
 #!/bin/bash -eux
 
 M=${1:-'-'}
-PUBLISH_DST=../blog
+PUBLISH_DST=../mgurov.github.io
 
 git status
 git add .
-git commit -m ${M}
+git commit -m "${M}"
 git push origin
 
 hugo
@@ -15,5 +15,5 @@ cd ${PUBLISH_DST}
 pwd
 git status
 git add .
-git commit -m ${M}
+git commit -m "${M}"
 git push origin HEAD:master
