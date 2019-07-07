@@ -2,7 +2,6 @@
 title: "WIP – Sprinkle sprinkle Kotlin sugar - small big shifts in test preparation"
 summary: "How to bring joy back to TDD with Kotlin again"
 date: 2019-07-07T12:51:38+02:00
-draft: true
 tags: [TDD, Kotlin, talks]
 ---
 
