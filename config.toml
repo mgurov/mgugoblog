@@ -6,6 +6,7 @@ googleAnalytics = "UA-143346799-1"
 
 [params]
     twitter = "https://www.twitter.com/ngurov"
+    mainSections = ["posts"]
 
 [menu]
 
