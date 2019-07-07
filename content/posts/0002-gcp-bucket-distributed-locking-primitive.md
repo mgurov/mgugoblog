@@ -7,6 +7,8 @@ tags: [gcp, distributed locking]
 
 I was looking for a simple way to prevent business users executing same slow and expensive action simultaneously. Something like a lock file, but more distributed. And I wasn't very much in the mood of setting up Hazelcast or Zookeper, or a database for this kind of a trivial task. 
 
+<!--more-->
+
 The app I worked with happened to use google storage buckets, which apparently offers good consistency guarantees: https://cloud.google.com/storage/docs/consistency
 
 This means: if you have an access to a bucket, you can get an exclusive distributed lock a very simple way (example in kotlin):
