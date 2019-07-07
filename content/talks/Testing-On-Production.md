@@ -22,6 +22,8 @@ Testing on production is often associated with A/B testing or canary releases, b
 
 {{< youtube QN03ERDzHxs>}}
 
+<!-- TODO: slidez -->
+
 # Future events
 
 # History
