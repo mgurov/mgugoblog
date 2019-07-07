@@ -26,5 +26,8 @@ Testing on production is often associated with A/B testing or canary releases, b
 
 # Future events
 
+Nov 7 Nov. 2019, Potstam, Germany [Agile Testing Days](https://agiletestingdays.com/2019/session/testing-on-production-deep-backend-edition/)
+
+
 # History
 
