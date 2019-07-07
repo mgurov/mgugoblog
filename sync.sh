@@ -5,7 +5,7 @@ PUBLISH_DST=../mgurov.github.io
 
 git status
 git add .
-git commit -m "${M}"
+git commit -m "${M}" || echo 'ok, was nothing to commit?'
 git push origin
 
 hugo
