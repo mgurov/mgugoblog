@@ -2,7 +2,7 @@
 title: "Java Integration Tests v Spring Context – when less is more"
 date: 2019-07-06T23:13:31+02:00
 description: "when less is more"
-tags: [spring, testing]
+tags: [spring, TDD]
 
 ---
 
