@@ -33,7 +33,10 @@ Nov. 7 2019, Potstam, Germany – [Agile Testing Days](https://agiletestingdays.
 
 # History
 
+June 2019 [Test Leadership Congress 2019](https://testleadershipcongress2019.sched.com/event/O5K7/testing-on-production-deep-backend-edition) – [video](https://www.youtube.com/watch?v=Gapv6FksYp4&list=PLXL-0W_fYXynhNcz9hpL0Ziux3n4ftzvw&index=5)
+
 April 2019 [code.talks commerce](https://commerce.codetalks.de/program#talk-579?event=2) – [video](https://www.youtube.com/watch?v=QN03ERDzHxs&list=PLXL-0W_fYXynhNcz9hpL0Ziux3n4ftzvw&index=3)
 
 [February 2019 meetup](https://www.meetup.com/Continuous-Delivery-Amsterdam/events/258668016/) of [Continuous Delivery Amsterdam](https://www.meetup.com/Continuous-Delivery-Amsterdam) – [video](https://www.youtube.com/watch?v=l6k-jkLIt3U&list=PLXL-0W_fYXynhNcz9hpL0Ziux3n4ftzvw&index=2)
 
+---
