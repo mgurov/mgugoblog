@@ -6,11 +6,11 @@ draft: true
 tags: [testing, talks]
 ---
 
-# Motto
+#### Motto
 
 Embrace Production as a first-class testing environment to decrease costs and improve quality.
 
-# Abstract
+#### Abstract
 
 Thorough testing before merging to master is great, but it doesn’t reveal the unknowns. Staging on shared environments tends to be slow, unreliable and costly to support. Why not just learn from the only true environment by conducting safe and efficient experiments?
 
@@ -18,20 +18,18 @@ This talk is based on my experience of increasing the delivery rate within the c
 
 Testing on production is often associated with A/B testing or canary releases, but those aren't always the best - or even applicable - techniques. We’ll look instead at shadow and dry runs, controlled experiments, survival of the fittest; how to apply these techniques and what to be aware of.
 
-# Example
+#### Example
 
 {{< youtube QN03ERDzHxs>}}
 
-<!-- TODO: slidez -->
-
-# Future events
+#### Future
 
 Oct 28-29 2019, Gdańsk, Poland – [Agile & Automation Days](https://aadays.pl)
 
 Nov. 7 2019, Potstam, Germany – [Agile Testing Days](https://agiletestingdays.com/2019/session/testing-on-production-deep-backend-edition/)
 
 
-# History
+#### Past
 
 June 2019 [Test Leadership Congress 2019](https://testleadershipcongress2019.sched.com/event/O5K7/testing-on-production-deep-backend-edition)
 
