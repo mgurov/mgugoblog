@@ -1,6 +1,5 @@
 ---
 title: "Testing on Production – deep backend edition"
-description: "description Testing-On-Production"
 date: 2019-07-07T12:31:38+02:00
 draft: false
 tags: [testing, talks]
