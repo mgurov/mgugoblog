@@ -1,7 +1,6 @@
 baseURL = "https://mgurov.github.io/"
 languageCode = "en-us"
 title = "Mykola on blog"
-#theme = "hugo-cactus-theme"
 theme = "gohugo-theme-ananke"
 googleAnalytics = "UA-143346799-1"
 
@@ -16,10 +15,10 @@ googleAnalytics = "UA-143346799-1"
     url = "/about/"
     weight = 20
 
-#  [[menu.main]]
-#    name = "talks"
-#    url = "/talks/"
-#    weight = 30
+  [[menu.main]]
+    name = "talks"
+    url = "/talks/"
+    weight = 30
 
   [[menu.main]]
     name = "posts"
