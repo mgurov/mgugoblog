@@ -8,9 +8,6 @@ googleAnalytics = "UA-143346799-1"
 [params]
     twitter = "https://www.twitter.com/ngurov"
 
-[social]
-    twitter = "https://www.twitter.com/ngurov"
-
 [menu]
 
   [[menu.main]]
