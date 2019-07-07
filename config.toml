@@ -6,8 +6,7 @@ theme = "gohugo-theme-ananke"
 googleAnalytics = "UA-143346799-1"
 
 [params]
-    twitter = "ngurov"
-#    disableHighlight = true
+    twitter = "https://www.twitter.com/ngurov"
 
 [social]
     twitter = "https://www.twitter.com/ngurov"
