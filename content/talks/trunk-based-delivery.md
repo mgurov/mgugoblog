@@ -1,6 +1,5 @@
 ---
 title: "Back to Trunk - the path of the Continuous Delivery"
-description: "description Testing-On-Production"
 date: 2019-07-07T12:41:38+02:00
 draft: false
 tags: [CD, talks]
