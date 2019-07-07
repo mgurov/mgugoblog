@@ -9,3 +9,21 @@ googleAnalytics = "UA-143346799-1"
 
 [social]
     twitter = "https://www.twitter.com/ngurov"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "about me"
+    url = "/about/"
+    weight = 20
+
+#  [[menu.main]]
+#    name = "talks"
+#    url = "/talks/"
+#    weight = 30
+
+  [[menu.main]]
+    name = "posts"
+    url = "/posts/"
+    weight = 10
