@@ -1,11 +1,13 @@
 baseURL = "https://mgurov.github.io/blog/"
 languageCode = "en-us"
 title = "Mykola on blog"
-theme = "hugo-cactus-theme"
+#theme = "hugo-cactus-theme"
+theme = "gohugo-theme-ananke"
 googleAnalytics = "UA-143346799-1"
 
 [params]
     twitter = "ngurov"
+#    disableHighlight = true
 
 [social]
     twitter = "https://www.twitter.com/ngurov"
