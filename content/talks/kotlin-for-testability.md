@@ -5,6 +5,8 @@ date: 2019-07-07T12:51:38+02:00
 tags: [TDD, Kotlin, talks]
 ---
 
+_In collaboration with Imre Dávid Kosztka a.k.a. [nonius](https://github.com/nonius)_
+
 Do your automated tests serve you well? Or does it seem like they are deliberately getting in a way, slowing down any change? Has the “given”’s preparation become an arduous journey littered with shortcuts? 
 
 Ever increasing delivery pace raises the bar for the test automation quality. Many teams are good at producing decent test coverage, but often at the price of tests maintainability, which can quickly become a bottleneck. Advanced testing frameworks like Cucumber, Spock, etc., can bring remedy to some of these pains, but add its own complexity, overhead and compromises.
