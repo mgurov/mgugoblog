@@ -3,6 +3,7 @@ title: "Back to Trunk - the path of the Continuous Delivery"
 date: 2019-07-07T12:41:38+02:00
 draft: false
 tags: [CD, talks]
+weight: 900
 ---
 
 Deploy continuously, move faster. Why? Won’t things break? What are the benefits for the teams and their stakeholders? Do those also apply to the “deep” back-end systems?
