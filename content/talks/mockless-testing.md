@@ -4,7 +4,7 @@ summary: "On mockless testing"
 date: 2019-07-30T21:04:07+02:00
 draft: true
 WIP: true
-tags: [TDD, talks]
+tags: [TDD, talks, WIP]
 ---
 
 Mocking and stubbing are, without any doubt, important techniques for a modern software developer to master. But can there be too much of the mocking goodness?

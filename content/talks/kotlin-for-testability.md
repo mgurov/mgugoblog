@@ -3,7 +3,7 @@ title: "WIP – Sprinkle sprinkle Kotlin sugar - small big shifts in test prepar
 summary: "On Kotling helping to bringing the joy back to TDD"
 date: 2019-07-07T12:51:38+02:00
 WIP: true
-tags: [TDD, Kotlin, talks]
+tags: [TDD, Kotlin, talks, WIP]
 ---
 
 _In collaboration with Imre Dávid Kosztka a.k.a. [nonius](https://github.com/nonius)_
