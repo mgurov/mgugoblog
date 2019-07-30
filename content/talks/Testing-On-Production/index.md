@@ -3,6 +3,7 @@ title: "Testing on Production – deep backend edition"
 date: 2019-07-07T12:31:38+02:00
 draft: false
 tags: [testing, talks]
+weight: 1000
 ---
 
 Embrace Production as a first-class testing environment to decrease costs and improve quality.
