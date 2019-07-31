@@ -7,7 +7,7 @@ googleAnalytics = "UA-143346799-1"
 [params]
     twitter = "https://www.twitter.com/ngurov"
     mainSections = ["posts"]
-
+    custom_css = ["css/custom.css"]
 [menu]
 
   [[menu.main]]
