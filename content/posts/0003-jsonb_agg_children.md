@@ -70,7 +70,7 @@ order_id| customer_id | total_value | line_id | order_id | value |
 
 Mapping onto the `order - lines` structure at the receiving side isn't too complex, but can become a burden with the number of relations joined increasing. 
 
-## Alternative: 
+## Alternative: jsonb fields
 
 ### See also 
 
