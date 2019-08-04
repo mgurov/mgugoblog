@@ -47,8 +47,7 @@ Given we have a vanilla order management system with orders and their lines in s
   </tbody>
 </table>
 
-&nbsp;
-
+<p>
 <table class="collapse ba br2 b--black-10">
   <tbody>
     <tr class="striped--light-gray ph3">
@@ -81,6 +80,7 @@ Given we have a vanilla order management system with orders and their lines in s
     </tr>
   </tbody>
 </table>
+</p>
 
 The query above would return a nice representation: 
 
