@@ -16,6 +16,8 @@ Testing on production is often associated with A/B testing or canary releases, b
 
 {{< youtube QN03ERDzHxs>}}
 
+[Download slides](https://github.com/mgurov/blog/files/3464782/Test.leadership.-.Testing.on.Production.pdf)
+
 #### Future
 
 Oct 28-29 2019, Gdańsk, Poland – [Agile & Automation Days](https://aadays.pl)
