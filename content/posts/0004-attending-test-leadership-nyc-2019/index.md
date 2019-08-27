@@ -27,7 +27,7 @@ The first day of the congress was the workshop day. Workshops, especially those 
 
 Soon I realized I was of the very few (if not the only) active developer at the conference: 
 
-![Me showring off](IMG_1050.jpg)
+![Me showing off](IMG_1050.jpg)
 
 the fact to which I did have to adjust in conversations. It was a good vibe and everything. 
 
