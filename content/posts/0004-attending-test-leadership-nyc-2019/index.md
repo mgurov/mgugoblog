@@ -2,7 +2,7 @@
 title: "Test Leadership Congress NYC 2019"
 date: 2019-08-18T14:43:16+02:00
 draft: true
-tags: [draft, fixme]
+tags: [draft, fixme, conference report]
 ---
 
 ### Summary
@@ -33,11 +33,40 @@ Two hours forward and I am making a clumsy attempt to shot the iconic NY sunset.
 
 The first day of the congress was the workshop day. Workshops, especially those where you have to work in small groups, are a great way to blend in for people like me (reserved introverts). I particularly liked the session by [Anders Dinsen](https://testleadershipcongress2019.sched.com/speaker/andersdinsen) and [Ole S Rasmussen](https://testleadershipcongress2019.sched.com/speaker/ole8) where participants were provoked to jump and act various, sometimes contradictory, roles in situations from their experience. 
 
-Soon I realized I was of the very few (if not the only) active developer at the conference: 
+Soon I realized I was one of very few (if not the only) active developer at the conference: 
 
 ![Me showing off](IMG_1050.jpg)
 
 the fact to which I did have to adjust in conversations. It was a good vibe and everything. 
+
+### Day 2,3 - Conference
+
+The conference content was what you'd normally expect. Lots of stuff.
+
+* Shift to left - good sessions 
+* Agile transformation 
+* Efficiency with the quality
+* The food was delicious as per my standards, nevertheless:
+
+
+Even the delicious (by my standards) food could not prevent a testing pyramid discussion! 
+
+![delicious testing pyramid](delicious_pyramid.jpg)
+
+A sculpture at the congress floor was depicting an average Sprint Planning session
+
+![Sprint Planning](springplanning.jpg)
+
+### Way home 
+
+Snitched a shot from apparently restricted area. They had a bug in their labeling, with the "authorized personel only" board turned to reflect light so that I couldn't see it! 
+
+![rainbow](rainbow.jpg)
+
+and in approximately 8 hours arrived back to the country of bycicles
+
+![back home](backhome.jpg)
+
 
 
 ### TODO
