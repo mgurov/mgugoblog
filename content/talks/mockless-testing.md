@@ -5,6 +5,7 @@ date: 2019-07-30T21:04:07+02:00
 draft: false
 WIP: true
 tags: [TDD, talks, WIP]
+weight: 2000
 ---
 
 Mocking and stubbing are, without any doubt, important techniques for a modern software developer to master. But can there be too much of the mocking goodness?

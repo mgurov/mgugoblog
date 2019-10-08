@@ -4,6 +4,7 @@ summary: "On Kotling helping to bringing the joy back to TDD"
 date: 2019-07-07T12:51:38+02:00
 WIP: true
 tags: [TDD, Kotlin, talks]
+weight: 1000
 ---
 
 _In collaboration with Imre Dávid Kosztka a.k.a. [nonius](https://github.com/nonius)_
