@@ -1,9 +1,9 @@
 ---
-title: "WIP – Sprinkle sprinkle Kotlin sugar - small big shifts in test preparation"
+title: "Sprinkle sprinkle Kotlin sugar - small big shifts in test preparation"
 summary: "On Kotling helping to bringing the joy back to TDD"
 date: 2019-07-07T12:51:38+02:00
 WIP: true
-tags: [TDD, Kotlin, talks, WIP]
+tags: [TDD, Kotlin, talks]
 ---
 
 _In collaboration with Imre Dávid Kosztka a.k.a. [nonius](https://github.com/nonius)_
@@ -15,3 +15,7 @@ Ever increasing delivery pace raises the bar for the test automation quality. Ma
 With the help of Kotlin’s language features such as named functional parameters, default parameter values, and especially DSLs (Type-Safe Builders), the expressiveness of tests can be drastically improved. Add a modern assertion framework like AssertJ, and even plain JUnit can be a very versatile testing tool for both unit- and functional testing with relatively low overhead and entry barrier.
 
 This demo will show how to use the features of Kotlin to fight the rising complexities of the automated test data preparation. The material is based on the real-world experience of using Kotlin for testing of backend micro-services (Kotlin or vanilla Java) at bol.com - one of the largest webshops in the Netherlands.
+
+#### Future
+
+Nov 1-2 2019, Kyiv, Ukraine - [Devoxx Ukraine](https://devoxx.com.ua/speaker-details/?id=24206)

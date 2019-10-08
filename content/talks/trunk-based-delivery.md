@@ -20,6 +20,10 @@ Let's take a look at the experience of this transition:
 
 {{< youtube Vi1cjw-X3Qc>}}
 
+#### Future
+
+November 28-29 2019 Kapellerput, Heeze, The Netherlands [XP Days Benelux](https://www.xpday.nl/friday2019/#session_777)
+
 #### Past
 
 June 2019 [Bol.com spaces summit](https://spacessummit.bol.com/talks.html#quickie-mykola) – [video](https://www.youtube.com/watch?v=Vi1cjw-X3Qc&list=PLXL-0W_fYXynhNcz9hpL0Ziux3n4ftzvw&index=5&t=1s)
