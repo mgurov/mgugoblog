@@ -17,6 +17,6 @@ With the help of Kotlin’s language features such as named functional parameter
 
 This demo will show how to use the features of Kotlin to fight the rising complexities of the automated test data preparation. The material is based on the real-world experience of using Kotlin for testing of backend micro-services (Kotlin or vanilla Java) at bol.com - one of the largest webshops in the Netherlands.
 
-#### Future
+#### Past
 
 Nov 1-2 2019, Kyiv, Ukraine - [Devoxx Ukraine](https://devoxx.com.ua/speaker-details/?id=24206)
