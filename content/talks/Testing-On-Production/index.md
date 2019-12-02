@@ -18,13 +18,13 @@ Testing on production is often associated with A/B testing or canary releases, b
 
 [Download slides](https://github.com/mgurov/blog/files/3464782/Test.leadership.-.Testing.on.Production.pdf)
 
-#### Future
-
 #### Past
+
+Nov. 26 2019 Utrecht, The Netherlands - [DomCode MeetUp](https://www.meetup.com/DomCode/events/266491910) [slides](https://www.slideshare.net/MykolaGurov/testing-on-production-domcode)
 
 Nov. 7 2019, Potstam, Germany – [Agile Testing Days](https://agiletestingdays.com/2019/session/testing-on-production-deep-backend-edition/) [slides](https://www.slideshare.net/secret/oUdcyRirMKel9t)
 
-Nov 1-2 2019, Kyiv, Ukraine - [Devoxx Ukraine](https://devoxx.com.ua/speaker-details/?id=24206) [slides](https://www.slideshare.net/secret/bK8PvSEwIyB7HM)
+Nov 1-2 2019, Kyiv, Ukraine - [Devoxx Ukraine](https://devoxx.com.ua/speaker-details/?id=24206) [slides](https://www.slideshare.net/secret/bK8PvSEwIyB7HM) [video](https://www.youtube.com/watch?v=Rs3Uw8AqkjA&list=PLXL-0W_fYXynhNcz9hpL0Ziux3n4ftzvw&index=8)
 
 Oct 28-29 2019, Gdańsk, Poland – [Agile & Automation Days](https://aadays.pl) [slides](https://www.slideshare.net/secret/uxgzndhESoKIZO)
 
