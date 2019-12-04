@@ -14,9 +14,9 @@ This talk is based on my experience of increasing the delivery rate within the c
 
 Testing on production is often associated with A/B testing or canary releases, but those aren't always the best - or even applicable - techniques. We’ll look instead at shadow and dry runs, controlled experiments, survival of the fittest; how to apply these techniques and what to be aware of.
 
-{{< youtube QN03ERDzHxs>}}
+{{< youtube Rs3Uw8AqkjA>}}
 
-[Download slides](https://github.com/mgurov/blog/files/3464782/Test.leadership.-.Testing.on.Production.pdf)
+[Slides](https://www.slideshare.net/MykolaGurov/testing-on-production-domcode)
 
 #### Past
 
