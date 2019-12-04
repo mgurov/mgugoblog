@@ -6,6 +6,8 @@ tags: [CD, talks]
 weight: 900
 ---
 
+A story of a feature team that implemented Continous Delivery accidentally.
+
 Deploy continuously, move faster. Why? Won’t things break? What are the benefits for the teams and their stakeholders? Do those also apply to the “deep” back-end systems?
 
 At [bol.com](https://bol.com) (one of the biggest online retailers of the Netherlands), feature teams enjoy lots of autonomy. We can press the "deploy" button at any moment. Theoretically. Practically, there are non-technical obstacles, like: "testing isn't complete, the rest of the changes must wait." Every delay adds up to the focus loss, and the pile of the undelivered risks is growing fast with every commit.  
