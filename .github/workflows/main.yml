@@ -26,3 +26,5 @@ jobs:
         #hugo-version: # optional, default is latest
         # Download (if necessary) and use Hugo extended version. Example: true
         #extended: # optional, default is false  
+    - name: Build
+      run: hugo --gc --minify --cleanDestinationDir    
