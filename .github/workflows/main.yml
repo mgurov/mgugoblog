@@ -31,4 +31,11 @@ jobs:
         # Download (if necessary) and use Hugo extended version. Example: true
         #extended: # optional, default is false  
     - name: Build
-      run: hugo --gc --minify --cleanDestinationDir    
+      run: hugo --gc --minify --cleanDestinationDir
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v2
+      env:
+        ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+        EXTERNAL_REPOSITORY: mgurov/mgurov.github.io
+        PUBLISH_BRANCH: auto-deploy
+#        PUBLISH_DIR: ./public
