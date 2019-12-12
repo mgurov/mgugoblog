@@ -6,3 +6,4 @@ draft: false
 
 Mykola is a java backend developer (calls himself full-stack). He has a keen interest in CI/CD, testing, and everything that helps to move faster without breaking too many things. Since 2015 he works at [bol.com](https://bol.com), one of the largest online retailers of the Netherlands.
 
+Now, this text has been deployed with github actions automatically.
