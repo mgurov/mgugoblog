@@ -37,5 +37,5 @@ jobs:
       env:
         ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
         EXTERNAL_REPOSITORY: mgurov/mgurov.github.io
-        PUBLISH_BRANCH: auto-deploy
+        PUBLISH_BRANCH: master
         PUBLISH_DIR: ./public
