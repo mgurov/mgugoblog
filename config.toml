@@ -2,7 +2,6 @@ baseURL = "https://mgurov.github.io/"
 languageCode = "en-us"
 title = "Mykola on blog"
 theme = "gohugo-theme-ananke"
-googleAnalytics = "UA-143346799-1"
 
 [params]
     twitter = "https://www.twitter.com/ngurov"
