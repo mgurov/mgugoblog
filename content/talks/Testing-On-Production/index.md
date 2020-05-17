@@ -18,6 +18,14 @@ Testing on production is often associated with A/B testing or canary releases, b
 
 [Slides](https://www.slideshare.net/MykolaGurov/testing-on-production-domcode)
 
+#### Related art
+
+What do you know about testing in production? https://youtu.be/z-ATZTUgaAo Michael Bryzek QCon San Francisco 2016
+
+GTAC 2007: Ed Keyes - Sufficiently Advanced Monitoring is Indistinguishable from Testing https://www.youtube.com/watch?v=uSo8i1N18oc
+
+On Uber's leverage of Multi-tenancy for progressive delivery  https://eng.uber.com/multitenancy-microservice-architecture/
+
 #### Past
 
 Nov. 26 2019 Utrecht, The Netherlands - [DomCode MeetUp](https://www.meetup.com/DomCode/events/266491910) [slides](https://www.slideshare.net/MykolaGurov/testing-on-production-domcode)
