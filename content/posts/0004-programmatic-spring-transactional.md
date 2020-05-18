@@ -46,16 +46,15 @@ A slightly more evolved, flexible and convenient in a longer run approach might 
 class Transactionally(
     transactionManager: PlatformTransactionManager // injected
     ) {
+
     private val transactionTemplate = TransactionTemplate(transactionManager)
 
-    //NB: kotlin operator fanciness
     operator fun <T> invoke(block: ()->T): T? {
         return transactionTemplate.execute {block()}
     }
 }
 
-
-class SomeService(private val transactionally: Transactionally){
+class SomeService(private val transactionally: Transactionally) {
 
     fun something() {
         ...
@@ -64,13 +63,10 @@ class SomeService(private val transactionally: Transactionally){
         }
         // the transaction is over
         ...
-        
     }
 }
-
 //TODO: check nullability of kotlin params
 //TODO: nicer block passing to the template?
-
 ```
 
 
