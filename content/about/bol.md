@@ -6,7 +6,7 @@ summary: "2015-2020 I spent at [bol.com](./bol/) , one of the largest online ret
 
 2015-2020 I worked at [bol.com](https://bol.com), one of the largest online retailers of the Netherlands. Mainly with feature teams in Logistics and Purchasing domains, but also with platform teams. 
 
-Some highlights: 
+Highlights: 
 
 * pioneered the use of Docker for CI testing against the real databases (Oracle, Postgres) and messaging (Oracle AQ, bol.com’s and google’s proprietary pub/sub).
 

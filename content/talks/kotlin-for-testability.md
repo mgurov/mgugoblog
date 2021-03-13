@@ -1,6 +1,10 @@
 ---
 title: "Sprinkle sprinkle Kotlin sugar - small big shifts in test preparation"
-summary: "On Kotling helping to bringing the joy back to TDD"
+summary: "Why do teams prefer Kotlin for their tests, even when their production code stays in Java? 
+
+
+Learn how Kotlin's syntax helps keep tests clean, expressive and concise. 
+"
 date: 2019-07-07T12:51:38+02:00
 WIP: true
 tags: [TDD, Kotlin, talks]
