@@ -33,4 +33,4 @@ Some highlights:
 
 * active public speaker since 2019: https://mgurov.github.io/talks/ 
 
-* toolchain: java, kotlin, go, junit, docker, postgres, pub/sub, react.js, cypress, Google Cloud (in particular - BigQueryб Kubernetes, PubSub).
+* toolchain: java, kotlin, go, junit, docker, postgres, pub/sub, react.js, cypress, Google Cloud (in particular - BigQuery, Kubernetes, PubSub).
