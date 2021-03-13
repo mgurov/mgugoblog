@@ -8,25 +8,28 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v1
+    - uses: actions/checkout@v2
       with:
             submodules: true
+            fetch-depth: 0
     - name: dirs sanity check
       run: |
         pwd
         ls -lah
         ls -lah themes/gohugo-theme-ananke
     - name: Hugo setup
-      uses: peaceiris/actions-hugo@v2.3.0
+      uses: peaceiris/actions-hugo@v2
       with:
-        # The Hugo version to download (if necessary) and use. Example: 0.58.2
         hugo-version: 0.62.2 # optional, default is latest
         # Download (if necessary) and use Hugo extended version. Example: true
         #extended: # optional, default is false  
     - name: Build
       run: hugo --gc --minify --cleanDestinationDir
     - name: Deploy
-      uses: peaceiris/actions-gh-pages@v2
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./public
       env:
         ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
         EXTERNAL_REPOSITORY: mgurov/mgurov.github.io
