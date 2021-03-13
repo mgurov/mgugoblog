@@ -13,6 +13,8 @@ Some highlights:
 
 * served as a feature team liaison to the platform teams on the topics of database use and in-flight data consistency (messaging guarantees).
 
+* spearheaded the development and adoption of "Data Quality Service" - a tool that allows feature teams to check the consistency of their data that they send to Data Lake against the operational source, with in-flight, volume and performance considerations covered.
+
 * was among the first voices raising awareness about the integrated testing environments becoming useless. Since then, I continuously preach testing microservices in isolation (dockerized databases and messaging queues, (http-)mocked external services) and on production (canary releases, shadow runs a.k.a. dark releases). Developed and presented at multiple conferences a [talk about testing on/in production](https://mgurov.github.io/talks/testing-on-production/) .
 
 * implemented, accidentally, trunk-based development with a purchasing IT team (https://mgurov.github.io/talks/trunk-based-delivery/). Two years later, still in full action and rocks.
@@ -31,4 +33,4 @@ Some highlights:
 
 * active public speaker since 2019: https://mgurov.github.io/talks/ 
 
-* toolchain: java, kotlin, go, junit, docker, postgres, pub/sub, react.js, cypress.
+* toolchain: java, kotlin, go, junit, docker, postgres, pub/sub, react.js, cypress, Google Cloud (in particular - BigQueryб Kubernetes, PubSub).
