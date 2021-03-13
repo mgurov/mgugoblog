@@ -1,9 +1,10 @@
 ---
 title: "Bol"
 date: 2020-06-16T08:19:01+02:00
+summary: "my work at [bol.com](./bol/) 2015-2020, one of the largest online retailers of the Netherlands."
 ---
 
-Since April 2015 I work at [bol.com](https://bol.com), one of the largest online retailers of the Netherlands. Mainly with feature teams in Logistics and Purchasing domains, but also with platform teams. 
+2015-2020 I worked at [bol.com](https://bol.com), one of the largest online retailers of the Netherlands. Mainly with feature teams in Logistics and Purchasing domains, but also with platform teams. 
 
 Some highlights: 
 
