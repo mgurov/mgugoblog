@@ -7,7 +7,7 @@ tags: [TDD, Kotlin, talks]
 weight: 1000
 ---
 
-_In collaboration with Imre Dávid Kosztka a.k.a. [nonius](https://github.com/nonius)_
+_Special thanks to Imre Dávid Kosztka a.k.a. [nonius](https://github.com/nonius) for inspiring this talk_
 
 Do your automated tests serve you well? Or does it seem like they are deliberately getting in a way, slowing down any change? Has the “given”’s preparation become an arduous journey littered with shortcuts? 
 
