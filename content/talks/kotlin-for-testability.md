@@ -11,6 +11,8 @@ tags: [TDD, Kotlin, talks]
 weight: 1000
 ---
 
+{{< youtube YDSwqzTuSWs>}}
+
 _Special thanks to Imre Dávid Kosztka a.k.a. [nonius](https://github.com/nonius) for inspiring this talk_
 
 Do your automated tests serve you well? Or does it seem like they are deliberately getting in a way, slowing down any change? Has the “given”’s preparation become an arduous journey littered with shortcuts? 
@@ -23,4 +25,5 @@ This demo will show how to use the features of Kotlin to fight the rising comple
 
 #### Past
 
+Nov 25 2019, Amsterdam, The Netherlands - [Kotlin Dev Day|https://kotlindevday.com] https://www.youtube.com/watch?v=YDSwqzTuSWs 
 Nov 1-2 2019, Kyiv, Ukraine - [Devoxx Ukraine](https://devoxx.com.ua/speaker-details/?id=24206)
