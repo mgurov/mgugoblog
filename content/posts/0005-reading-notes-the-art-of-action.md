@@ -1,5 +1,5 @@
 ---
-title: "Reading notes on The art of action "
+title: "Reading notes on The Art of Action"
 date: 2022-07-05T19:02:56+01:00
 draft: false
 tags: [reading, agile]
