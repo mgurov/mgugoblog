@@ -10,6 +10,6 @@ My primary focus is on the delivery discipline as the way to keep the developmen
 
 Technologically, I'm centered around JVM backend development (Kotlin, Java). I prefer react.js for UI, and go for CLI and infra tooling.
 
-Since 2021 I work at [iptiQ](https://iptiq.com).
+Since 2021 I build a platform for B2B2C white-label insurance products at [iptiQ](https://iptiq.com).
 
-You can see me talking at [Friendly Tech Chats Youtube chan](https://www.youtube.com/channel/UChHHWkO537q6Yp2dXtJpOzQ).
+You can see me talking at (now dormant) [Friendly Tech Chats Youtube chan](https://www.youtube.com/channel/UChHHWkO537q6Yp2dXtJpOzQ).
