@@ -4,7 +4,7 @@ title = "Mykola on blog"
 theme = "gohugo-theme-ananke"
 
 [params]
-    twitter = "https://www.twitter.com/ngurov"
+    linkedin = "https://nl.linkedin.com/in/mgurov"
     mainSections = ["posts"]
     custom_css = ["css/custom.css"]
 [menu]
