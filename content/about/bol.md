@@ -2,6 +2,7 @@
 title: "5 years at Bol"
 date: 2020-06-16T08:19:01+02:00
 summary: "2015-2020 I spent at [bol.com](./bol/) , one of the largest online retailers of the Netherlands."
+hide_date: true
 ---
 
 2015-2020 I worked at [bol.com](https://bol.com), one of the largest online retailers of the Netherlands. Mainly with feature teams in Logistics and Purchasing domains, but also with platform teams. 
