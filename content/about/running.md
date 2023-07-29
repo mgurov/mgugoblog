@@ -3,6 +3,7 @@ title: "Running"
 date: 2020-06-16T08:19:01+02:00
 summary: "Where will I run"
 hide_date: true
+featured_image: "img/02-me-start-run.png"
 ---
 
 I run 10-20K for fun and recreativity. Catch me at one of the following: 
