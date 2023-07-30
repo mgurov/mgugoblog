@@ -1,6 +1,6 @@
 ---
 title: "Running"
-date: 2020-06-16T08:19:01+02:00
+date: 2023-07-30T08:19:01+02:00
 summary: "Where will I run"
 hide_date: true
 featured_image: "img/02-me-start-run.png"
