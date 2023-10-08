@@ -12,6 +12,8 @@ Sun 15 Oct 2023 ~21K [Mizuno Half Marathon](https://www.tcsamsterdammarathon.eu/
 
 Sun 10 Mar 2024 ~21K [EDP LISBON HALF MARATHON](https://www.maratonaclubedeportugal.com/en/corrida-marco/edp-lisbon-half-marathon-2024/)
 
+(?🤔) Sun 19 Nov 2023 15K [NN ZEVENHEUVELENLOOP](https://www.nnzevenheuvelenloop.nl)
+
 (?🤔) Sun 14 Jan 2024 ~21K [NN Egmond Halve Marathon 2024](https://www.nnegmondhalvemarathon.nl/inschrijven)
 
 (?🤔) Sun 24 Mar 2024 16K [Zandvoort Circuit Run 2024](https://www.zandvoortcircuitrun.nl/inschrijven)
