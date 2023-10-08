@@ -18,7 +18,7 @@ Sun 10 Mar 2024 ~21K [EDP LISBON HALF MARATHON](https://www.maratonaclubedeportu
 
 #### Previously seen at 
 
-Sat 16 Sep 2023 5M [Damloop by night](https://www.damloop.com/5-miles) Zaandam (38:39 4:48 /km)[https://results.sporthive.com/events/7107378500659252480/races/486909/bib/57926]
+Sat 16 Sep 2023 5M [Damloop by night](https://www.damloop.com/5-miles) Zaandam [38:39 4:48 /km](https://results.sporthive.com/events/7107378500659252480/races/486909/bib/57926)
 
 Sun 10 Sep 2023 10K [De Goudse Singelloop](https://www.singelloop.nl) Gouda [46:43 4:40 /km](https://www.athlinks.com/event/372410/results/Event/1060668/Course/2400213/Bib/2784)
 
