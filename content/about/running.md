@@ -16,6 +16,8 @@ Sun 10 Mar 2024 half [EDP LISBON HALF MARATHON](https://www.maratonaclubedeportu
 
 Sun 24 Mar 2024 12Km [Zandvoort Circuit Run 2024](https://www.zandvoortcircuitrun.nl/inschrijven)
 
+Sun 20 Oct 2023 full 🏃‍♂️ [Amsterdam Marathon](https://www.tcsamsterdammarathon.eu/tcs-marathon)
+
 #### Previously seen at 
 
 Sun 15 Oct 2023 half [Mizuno Half Marathon](https://www.tcsamsterdammarathon.eu/mizuno-half-marathon) Amsterdam [01:40:01 04:44 /km](https://results.sporthive.com/events/7117550207329210624/races/487270/bib/40158)
