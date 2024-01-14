@@ -8,8 +8,6 @@ featured_image: "img/02-me-start-run.png"
 
 I run 10-20K for fun and recreativity. Catch me at one of the following: 
 
-Sun 14 Jan 2024 half [NN Egmond Halve Marathon 2024](https://www.nnegmondhalvemarathon.nl/inschrijven)
-
 Sun 10 Mar 2024 half [EDP LISBON HALF MARATHON](https://www.maratonaclubedeportugal.com/en/corrida-marco/edp-lisbon-half-marathon-2024/)
 
 Sun 24 Mar 2024 12Km [Zandvoort Circuit Run 2024](https://www.zandvoortcircuitrun.nl/inschrijven)
@@ -18,7 +16,10 @@ Sun 20 Oct 2023 full 🏃‍♂️ [Amsterdam Marathon](https://www.tcsamsterdam
 
 #### Previously seen at 
 
-Sun 19 Nov 2023 15Km [NN ZEVENHEUVELENLOOP](https://www.nnzevenheuvelenloop.nl)  [01:09:03 04:36](https://results.sporthive.com/events/7127316430828080384/races/487562/bib/16365)
+Sun 14 Jan 2024 half [Egmond Halve Marathon 2024] [01:40:57 04:47](https://results.sporthive.com/events/7150193505105825792/races/488107/bib/8217)
+
+
+Sun 19 Nov 2023 15Km [ZEVENHEUVELENLOOP](https://www.nnzevenheuvelenloop.nl)  [01:09:03 04:36](https://results.sporthive.com/events/7127316430828080384/races/487562/bib/16365)
 
 Sun 15 Oct 2023 half [Mizuno Half Marathon](https://www.tcsamsterdammarathon.eu/mizuno-half-marathon) Amsterdam [01:40:01 04:44 /km](https://results.sporthive.com/events/7117550207329210624/races/487270/bib/40158)
 
