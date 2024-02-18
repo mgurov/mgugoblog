@@ -6,8 +6,6 @@ hide_date: true
 featured_image: "img/02-me-start-run.png"
 ---
 
-I run 10-20K for fun and recreativity. Catch me at one of the following: 
-
 Sun 17 Mar 2024 half [EDP LISBON HALF MARATHON](https://www.maratonaclubedeportugal.com/en/corrida-marco/edp-lisbon-half-marathon-2024/)
 
 Sun 24 Mar 2024 12Km [Zandvoort Circuit Run 2024](https://www.zandvoortcircuitrun.nl/inschrijven)
