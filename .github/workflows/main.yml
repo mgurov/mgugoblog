@@ -11,11 +11,6 @@ jobs:
     - uses: actions/checkout@v4
       with:
             submodules: true
-    - name: dirs sanity check
-      run: |
-        pwd
-        ls -lah
-        ls -lah themes/gohugo-theme-ananke
     - name: Hugo setup
       uses: peaceiris/actions-hugo@v2
       with:
