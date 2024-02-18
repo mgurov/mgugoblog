@@ -14,7 +14,7 @@
           https://gohugo.io/variables/page/#section-variables-and-methods
           */}}
         {{with .CurrentSection }}
-          <a class="no-underline black" href="{{ .CurrentSection.URL }}" title="{{ .Title }} section">
+          <a class="no-underline black" href="{{ .CurrentSection.Permalink }}" title="{{ .Title }} section">
             {{.Title | upper }}
           </a>
         {{end}}
