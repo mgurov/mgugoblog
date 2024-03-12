@@ -19,7 +19,7 @@ Highlights:
 
 * was among the first voices raising awareness about the integrated testing environments becoming useless. Since then, I continuously preach testing microservices in isolation (dockerized databases and messaging queues, (http-)mocked external services) and on production (canary releases, shadow runs a.k.a. dark releases). Developed and presented at multiple conferences a [talk about testing on/in production](https://mgurov.github.io/talks/testing-on-production/) .
 
-* implemented, accidentally, trunk-based development with a purchasing IT team (https://mgurov.github.io/talks/trunk-based-delivery/). Two years later, still in full action and rocks.
+* implemented, accidentally, [trunk-based development](https://mgurov.github.io/talks/trunk-based-delivery/) with a purchasing IT team. Two years later, still in full action and rocks.
 
 * participated, on the feature teams side, in a transition from monoliths to microservices, from own data center to the public cloud of google. 
 
