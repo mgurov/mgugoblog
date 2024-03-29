@@ -6,15 +6,15 @@ hide_date: true
 featured_image: "img/02-me-start-run.png"
 ---
 
-Sun 17 Mar 2024 half [EDP LISBON HALF MARATHON](https://www.maratonaclubedeportugal.com/en/corrida-marco/edp-lisbon-half-marathon-2024/)
-
-Sun 24 Mar 2024 12Km [Zandvoort Circuit Run 2024](https://www.zandvoortcircuitrun.nl/inschrijven)
-
 Sun 21 April 2024 half [Vienna City Marathon](https://www.vienna-marathon.com)
 
 Sun 20 Oct 2023 full 🏃‍♂️ [Amsterdam Marathon](https://www.tcsamsterdammarathon.eu/tcs-marathon)
 
 #### Previously seen at 
+
+Sun 24 Mar 2024 12Km 00:58:24 [Zandvoort Circuit Run 2024](https://results.sporthive.com/events/7174316437847681024/races/488854/bib/4267)
+
+Sun 17 Mar 2024 half 01:48:21 [EDP LISBON HALF MARATHON](https://results.sporthive.com/events/7142907578304137472/races/487965/bib/1307)
 
 Sun 14 Jan 2024 half [Egmond Halve Marathon 2024] [01:40:57 04:47](https://results.sporthive.com/events/7150193505105825792/races/488107/bib/8217)
 
