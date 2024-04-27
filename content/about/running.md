@@ -6,11 +6,13 @@ hide_date: true
 featured_image: "img/02-me-start-run.png"
 ---
 
-Sun 21 April 2024 half [Vienna City Marathon](https://www.vienna-marathon.com)
-
-Sun 20 Oct 2023 full 🏃‍♂️ [Amsterdam Marathon](https://www.tcsamsterdammarathon.eu/tcs-marathon)
+Sun 19 Oct 2025 full 😅 [Amsterdam Marathon](https://www.tcsamsterdammarathon.eu/)
 
 #### Previously seen at 
+
+Sat 21 Sep 2024 8Km [Damloop by night](https://www.nndamloop.nl/)
+
+Sun 21 April 2024 half [01:43:12](https://vienna.r.mikatiming.de/2024/detail/HML_HCH8OHST20A/19928) [Vienna City Marathon](https://www.vienna-marathon.com)
 
 Sun 24 Mar 2024 12Km 00:58:24 [Zandvoort Circuit Run 2024](https://results.sporthive.com/events/7174316437847681024/races/488854/bib/4267)
 
