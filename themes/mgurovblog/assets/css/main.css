@@ -49,3 +49,11 @@ a {
   color: #00e;
   text-decoration: none;
 }
+
+nav ul {
+  display: flex;
+}
+
+nav ul li {
+  margin-left: 20px;
+}
