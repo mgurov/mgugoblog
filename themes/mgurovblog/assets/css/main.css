@@ -27,6 +27,16 @@ img, picture, video, canvas, svg {
   max-width: 100%;
 }
 
+main {
+  width: 120ch;
+  text-align: justify;
+}
+
+p {
+  padding: 0.5ch;
+  margin: 0 1ch;
+}
+
 header {
   border-bottom: 1px solid #222;
   margin-bottom: 1rem;
