@@ -1,6 +1,6 @@
-baseURL = "https://mgurov.github.io/"
+baseURL = "https://mgurov.github.io/mgugoblog/"
 languageCode = "en-us"
-title = "Mykola on blog"
+title = "Mykola on Web"
 theme = "mgurovblog"
 
 [params]
@@ -13,17 +13,20 @@ theme = "mgurovblog"
     identifier = "about"
     name = "about me"
     url = "/about/"
-    weight = 20
+    weight = 10
+    details = "Learn more about me"
 
   [[menu.main]]
     name = "talks"
     url = "/talks/"
-    weight = 30
+    weight = 20
+    details = "The public speaking I do"
 
   [[menu.main]]
     name = "posts"
     url = "/posts/"
-    weight = 10
+    weight = 30
+    details = "random notes on random (tech) topics"
 
 [markup]
   [markup.goldmark.renderer]

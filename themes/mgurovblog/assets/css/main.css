@@ -12,7 +12,7 @@ body {
   font-family: sans-serif;
   line-height: 1.5;
   align-items: center;
-  background-color: #d6e7f9;
+  background-color: #f3f9fd;
   display: flex;
   flex-direction: column;
 }
@@ -23,6 +23,7 @@ img, picture, video, canvas, svg {
 }
 
 main {
+  flex: 1;
   width: 80ch;
   text-align: justify;
 }
@@ -70,7 +71,7 @@ a {
 }
 
 a:hover {
-  background-color: #cbe1f9;
+  background-color: #c7e3f6;
 }
 
 nav ul {
