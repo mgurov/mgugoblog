@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Mykola on blog</title>
-    <link>https://mgurov.github.io/categories/</link>
+    <link>https://mgurov.github.io/mgugoblog/categories/</link>
     <description>Recent content in Categories on Mykola on blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://mgurov.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mgurov.github.io/mgugoblog/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

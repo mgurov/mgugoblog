@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Mykola on blog</title>
-    <link>https://mgurov.github.io/tags/</link>
+    <link>https://mgurov.github.io/mgugoblog/tags/</link>
     <description>Recent content in Tags on Mykola on blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Jul 2022 19:02:56 +0100</lastBuildDate>
-    <atom:link href="https://mgurov.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mgurov.github.io/mgugoblog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Agile</title>
-      <link>https://mgurov.github.io/tags/agile/</link>
+      <link>https://mgurov.github.io/mgugoblog/tags/agile/</link>
       <pubDate>Tue, 05 Jul 2022 19:02:56 +0100</pubDate>
-      <guid>https://mgurov.github.io/tags/agile/</guid>
+      <guid>https://mgurov.github.io/mgugoblog/tags/agile/</guid>
       <description></description>
     </item>
     <item>
       <title>Reading</title>
-      <link>https://mgurov.github.io/tags/reading/</link>
+      <link>https://mgurov.github.io/mgugoblog/tags/reading/</link>
       <pubDate>Tue, 05 Jul 2022 19:02:56 +0100</pubDate>
-      <guid>https://mgurov.github.io/tags/reading/</guid>
+      <guid>https://mgurov.github.io/mgugoblog/tags/reading/</guid>
       <description></description>
     </item>
     <item>
       <title>Kotlin</title>
-      <link>https://mgurov.github.io/tags/kotlin/</link>
+      <link>https://mgurov.github.io/mgugoblog/tags/kotlin/</link>
       <pubDate>Mon, 31 Jan 2022 22:52:38 +0200</pubDate>
-      <guid>https://mgurov.github.io/tags/kotlin/</guid>
+      <guid>https://mgurov.github.io/mgugoblog/tags/kotlin/</guid>
       <description></description>
     </item>
     <item>
       <title>Talks</title>
-      <link>https://mgurov.github.io/tags/talks/</link>
+      <link>https://mgurov.github.io/mgugoblog/tags/talks/</link>
       <pubDate>Mon, 31 Jan 2022 22:52:38 +0200</pubDate>
-      <guid>https://mgurov.github.io/tags/talks/</guid>
+      <guid>https://mgurov.github.io/mgugoblog/tags/talks/</guid>
       <description></description>
     </item>
     <item>
       <title>TDD</title>
-      <link>https://mgurov.github.io/tags/tdd/</link>
+      <link>https://mgurov.github.io/mgugoblog/tags/tdd/</link>
       <pubDate>Mon, 31 Jan 2022 22:52:38 +0200</pubDate>
-      <guid>https://mgurov.github.io/tags/tdd/</guid>
+      <guid>https://mgurov.github.io/mgugoblog/tags/tdd/</guid>
       <description></description>
     </item>
     <item>
       <title>Spring</title>
-      <link>https://mgurov.github.io/tags/spring/</link>
+      <link>https://mgurov.github.io/mgugoblog/tags/spring/</link>
       <pubDate>Sun, 12 Jan 2020 19:02:56 +0100</pubDate>
-      <guid>https://mgurov.github.io/tags/spring/</guid>
+      <guid>https://mgurov.github.io/mgugoblog/tags/spring/</guid>
       <description></description>
     </item>
     <item>
       <title>Jsonb</title>
-      <link>https://mgurov.github.io/tags/jsonb/</link>
+      <link>https://mgurov.github.io/mgugoblog/tags/jsonb/</link>
       <pubDate>Wed, 31 Jul 2019 16:57:33 +0200</pubDate>
-      <guid>https://mgurov.github.io/tags/jsonb/</guid>
+      <guid>https://mgurov.github.io/mgugoblog/tags/jsonb/</guid>
       <description></description>
     </item>
     <item>
       <title>Postgres</title>
-      <link>https://mgurov.github.io/tags/postgres/</link>
+      <link>https://mgurov.github.io/mgugoblog/tags/postgres/</link>
       <pubDate>Wed, 31 Jul 2019 16:57:33 +0200</pubDate>
-      <guid>https://mgurov.github.io/tags/postgres/</guid>
+      <guid>https://mgurov.github.io/mgugoblog/tags/postgres/</guid>
       <description></description>
     </item>
     <item>
       <title>WIP</title>
-      <link>https://mgurov.github.io/tags/wip/</link>
+      <link>https://mgurov.github.io/mgugoblog/tags/wip/</link>
       <pubDate>Tue, 30 Jul 2019 21:04:07 +0200</pubDate>
-      <guid>https://mgurov.github.io/tags/wip/</guid>
+      <guid>https://mgurov.github.io/mgugoblog/tags/wip/</guid>
       <description></description>
     </item>
     <item>
       <title>CD</title>
-      <link>https://mgurov.github.io/tags/cd/</link>
+      <link>https://mgurov.github.io/mgugoblog/tags/cd/</link>
       <pubDate>Sun, 07 Jul 2019 12:41:38 +0200</pubDate>
-      <guid>https://mgurov.github.io/tags/cd/</guid>
+      <guid>https://mgurov.github.io/mgugoblog/tags/cd/</guid>
       <description></description>
     </item>
     <item>
       <title>Testing</title>
-      <link>https://mgurov.github.io/tags/testing/</link>
+      <link>https://mgurov.github.io/mgugoblog/tags/testing/</link>
       <pubDate>Sun, 07 Jul 2019 12:31:38 +0200</pubDate>
-      <guid>https://mgurov.github.io/tags/testing/</guid>
+      <guid>https://mgurov.github.io/mgugoblog/tags/testing/</guid>
       <description></description>
     </item>
     <item>
       <title>Distributed Locking</title>
-      <link>https://mgurov.github.io/tags/distributed-locking/</link>
+      <link>https://mgurov.github.io/mgugoblog/tags/distributed-locking/</link>
       <pubDate>Sun, 07 Jul 2019 11:31:10 +0200</pubDate>
-      <guid>https://mgurov.github.io/tags/distributed-locking/</guid>
+      <guid>https://mgurov.github.io/mgugoblog/tags/distributed-locking/</guid>
       <description></description>
     </item>
     <item>
       <title>Gcp</title>
-      <link>https://mgurov.github.io/tags/gcp/</link>
+      <link>https://mgurov.github.io/mgugoblog/tags/gcp/</link>
       <pubDate>Sun, 07 Jul 2019 11:31:10 +0200</pubDate>
-      <guid>https://mgurov.github.io/tags/gcp/</guid>
+      <guid>https://mgurov.github.io/mgugoblog/tags/gcp/</guid>
       <description></description>
     </item>
   </channel>
