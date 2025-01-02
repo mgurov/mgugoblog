@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+<head>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<title>WIP: External domain context with Ktor and Kotlin DSL for expressive and resilient testing | Mykola on blog</title>
+
+      <link rel="stylesheet" href="/css/main.min.5ee08123ba5f1cfeeb45d094a434a74c7a81a4bdd81617035c1f1e4667edae48.css" integrity="sha256-XuCBI7pfHP7rRdCUpDSnTHqBpL3YFhcDXB8eRmftrkg=" crossorigin="anonymous">
+
+
+      <script src="/js/main.23cd0c7d837263b9eaeb96ee2d9ccfa2969daa3fa00fa1c1fe8701a9b87251a1.js" integrity="sha256-I80MfYNyY7nq65buLZzPopadqj&#43;gD6HB/ocBqbhyUaE=" crossorigin="anonymous"></script>
+
+
+</head>
+<body>
+  <header>
+    <h1><a href="/">Mykola on blog</a></h1>
+
+  <nav>
+    <ul>
+    <li>
+      <a href="/posts/">posts</a>
+    </li>
+    <li>
+      <a href="/about/">about me</a>
+    </li>
+    <li>
+      <a href="/talks/">talks</a>
+    </li>
+    </ul>
+  </nav>
+
+
+  </header>
+  <main>
+    
+  <h1>WIP: External domain context with Ktor and Kotlin DSL for expressive and resilient testing</h1>
+
+  
+
+  <p>There’s no simple “right” way to build a test suite for a non-trivial service. The divide-and-conquer techniques like hexagonal ports-and-adaptors decomposition, or consumer-driven contract testing - are frequently discussed, but there’s little discourse on how to sustainably build tests with larger span - in the middle of the testing pyramid - but still in isolation and before deploying to production or staging environments.</p>
+<p>Not anymore - in this presentation, I’ll demonstrate a wholistic approach for building meaningful functional tests in isolation. The highlights of this technique are the minimal deviation from the production configuration or code, and very limited use of mocking. Thanks to higher tier positioning on the testing pyramid, the tests written with this technique are quite implementation-agnostic, and excel in supporting structural refactorings or high-level documentation of the component behavior.</p>
+<p>I’ll use Spring on Kotlin as an example of a production service, and Ktor to emulate dependencies. The DSL power of Kotlin will be leveraged to define the “external context” in terms of “our” domain - so that tests start to tell stories instead of speaking technicalities.</p>
+
+  
+  <div>
+    <div>Tags:</div>
+    <ul>
+        <li><a href="/tags/tdd/">TDD</a></li>
+        <li><a href="/tags/kotlin/">Kotlin</a></li>
+        <li><a href="/tags/talks/">Talks</a></li>
+    </ul>
+  </div>
+
+
+  </main>
+  <footer>
+    <p>Anno 2025</p>
+
+  </footer>
+</body>
+</html>
