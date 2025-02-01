@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Postgres on Mykola on blog</title>
+    <title>Postgres on Mykola on Web</title>
     <link>https://mgurov.github.io/mgugoblog/tags/postgres/</link>
-    <description>Recent content in Postgres on Mykola on blog</description>
+    <description>Recent content in Postgres on Mykola on Web</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 31 Jul 2019 16:57:33 +0200</lastBuildDate>

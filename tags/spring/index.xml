@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Spring on Mykola on blog</title>
+    <title>Spring on Mykola on Web</title>
     <link>https://mgurov.github.io/mgugoblog/tags/spring/</link>
-    <description>Recent content in Spring on Mykola on blog</description>
+    <description>Recent content in Spring on Mykola on Web</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 12 Jan 2020 19:02:56 +0100</lastBuildDate>
