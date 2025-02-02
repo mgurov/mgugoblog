@@ -2,6 +2,7 @@
 title: "GCP Bucket as a Distributed Locking Primitive"
 date: 2019-07-07T11:31:10+02:00
 tags: [gcp, distributed locking]
+weight: 100
 ---
 
 I was looking for a simple way to prevent business users executing same slow and expensive action simultaneously. Something like a lock file, but more distributed. And I wasn't very much in the mood of setting up Hazelcast or Zookeper, or a database for this kind of a trivial task. 

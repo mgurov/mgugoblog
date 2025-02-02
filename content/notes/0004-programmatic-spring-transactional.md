@@ -3,9 +3,8 @@ title: "Spring @Transactional programmatically"
 date: 2020-01-12T19:02:56+01:00
 draft: false
 tags: [spring, TDD]
+weight: 100
 ---
-
-Beware: this post is WIP.
 
 An an enterprise developer, it's easy to get used to the conveniences of Spring (Boot) so much that it becomes an issue on itself. Take `@Transactional`. Arguably, one of the few core features of Spring that does make us more productive in development. But at times it can be slightly inconvenient to rely solely on annotation for transaction boundary setup: 
 

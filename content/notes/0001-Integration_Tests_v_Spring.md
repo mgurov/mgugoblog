@@ -3,6 +3,7 @@ title: "Java Integration Tests v Spring Context – when less is more"
 date: 2019-07-06T23:13:31+02:00
 description: "when less is more"
 tags: [spring, TDD]
+weight: 10
 
 ---
 
@@ -128,6 +129,4 @@ Testing section of the Spring Boot documentation https://docs.spring.io/spring-b
 
 Baeldung on Spring Tests https://www.baeldung.com/spring-tests
 
-More in-depth discussion of the topic by Andy Wilkinson @ Spring I/O 2019:
-
-{{< youtube 5sjFn9BsAds >}}
+More in-depth discussion of the topic by Andy Wilkinson @ Spring I/O 2019 {{< utube 5sjFn9BsAds>}}

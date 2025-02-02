@@ -3,6 +3,7 @@ title: "Postgres jsonb_agg children cart"
 date: 2019-07-31T16:57:33+02:00
 draft: false
 tags: [postgres, jsonb]
+weight: 1000
 ---
 
 Selecting lists of related entities from RDBMS'es can be a chore at times. Especially when ORM's aren't used or desired. jsonb_agg of postgres can be a convenient workaround for these cases:

@@ -1,7 +1,5 @@
 ---
 title: "Testing on Production – deep backend edition"
-date: 2019-07-07T12:31:38+02:00
-draft: false
 tags: [testing, talks]
 weight: 100
 ---
@@ -18,15 +16,21 @@ Testing on production is often associated with A/B testing or canary releases, b
 
 [Slides](https://www.slideshare.net/MykolaGurov/testing-on-production-domcode)
 
+<div class="text_align_left">
+
 #### Related art
 
-What do you know about testing in production? https://youtu.be/z-ATZTUgaAo Michael Bryzek QCon San Francisco 2016
+[What do you know about testing in production?](https://youtu.be/z-ATZTUgaAo) Michael Bryzek QCon San Francisco 2016
 
-GTAC 2007: Ed Keyes - Sufficiently Advanced Monitoring is Indistinguishable from Testing https://www.youtube.com/watch?v=uSo8i1N18oc
+GTAC 2007: Ed Keyes - [Sufficiently Advanced Monitoring is Indistinguishable from Testing](https://www.youtube.com/watch?v=uSo8i1N18oc)
 
-On Uber's leverage of Multi-tenancy for progressive delivery  https://eng.uber.com/multitenancy-microservice-architecture/
+[On Uber's leverage of Multi-tenancy for progressive delivery](https://eng.uber.com/multitenancy-microservice-architecture/)
 
-#### Past
+</div>
+
+<div class="text_align_left">
+
+#### Past Performances
 
 Nov. 26 2019 Utrecht, The Netherlands - [DomCode MeetUp](https://www.meetup.com/DomCode/events/266491910) [slides](https://www.slideshare.net/MykolaGurov/testing-on-production-domcode)
 
@@ -42,4 +46,4 @@ April 2019 [code.talks commerce](https://commerce.codetalks.de/program#talk-579?
 
 [February 2019 meetup](https://www.meetup.com/Continuous-Delivery-Amsterdam/events/258668016/) of [Continuous Delivery Amsterdam](https://www.meetup.com/Continuous-Delivery-Amsterdam)
 
----
+</div>
