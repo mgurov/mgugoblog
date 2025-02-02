@@ -1,0 +1,23 @@
+{{ define "main" }}
+  {{ .Content }}
+  {{/*  {{ range site.RegularPages }}    
+    <h3>
+      <a href="{{ relURL .Type  }}">{{- partial "inline/menu/type.html" (dict "page" .)}}</a>
+      &gt; <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
+    {{ .Summary }}
+  {{ end }}  */}}
+{{ end }}
+
+
+{{- define "partials/inline/menu/type.html"}}
+  {{$pageType := .page.Type}}
+  {{ $menuItemByIdentifier := where site.Menus.main "Identifier" $pageType  }}
+  {{ if $menuItemByIdentifier }}
+    {{range $menuItemByIdentifier}}
+      {{.Name}}
+    {{end}}
+     
+  {{ else }}
+    {{$pageType}}
+  {{ end }}
+{{- end}}

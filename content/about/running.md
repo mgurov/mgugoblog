@@ -6,6 +6,8 @@ hide_date: true
 featured_image: "img/02-me-start-run.png"
 ---
 
+Sun 30 Mar 2025 12Km [Zandvoort Circuit Run 2025](https://www.zandvoortcircuitrun.nl/) with my team! 👫👫
+
 Sun 19 Oct 2025 full 😅 [Amsterdam Marathon](https://www.tcsamsterdammarathon.eu/)
 
 #### Previously seen at 
