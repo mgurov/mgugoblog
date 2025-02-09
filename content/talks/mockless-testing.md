@@ -2,7 +2,7 @@
 title: "WIP – Mocks: is more always better?"
 summary: "On mockless testing"
 date: 2019-07-30T21:04:07+02:00
-draft: false
+draft: true
 WIP: true
 tags: [TDD, talks, WIP]
 weight: 2000

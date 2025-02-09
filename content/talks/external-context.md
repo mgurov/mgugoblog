@@ -1,5 +1,5 @@
 ---
-title: "WIP: External domain context with Ktor and Kotlin DSL for expressive and resilient testing"
+title: "External domain context with Ktor and Kotlin DSL for expressive and resilient testing"
 summary: "Learn how to build meaningful functional tests in isolation. The highlights of this technique are the minimal deviation from the production configuration or code, and very limited use of mocking. Thanks to higher tier positioning on the testing pyramid, the tests written with this technique are quite implementation-agnostic, and excel in supporting structural refactorings or high-level documentation of the component behavior."
 date: 2022-01-31T22:52:38+02:00
 tags: [TDD, Kotlin, talks]
